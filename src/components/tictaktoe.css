@@ -1,0 +1,13 @@
+body{
+    background-color: blanchedalmond;
+}
+td{
+    height: 150px;
+    width: 150px;
+    border: 1px solid;
+    text-align: center;
+}
+table{
+    margin-left: 33%;
+    margin-top: 5%;
+}
